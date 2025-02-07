@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Wot I Read - Terminal Control</title>
+        <link>https://wotiread.terminal-control.com</link>
+        <description>What was read list broken up by years for Terminal Control</description>
+        <item>
+            <title>2024 Reading List Released!</title>
+            <link>https://wotiread.terminal-control.com</link>
+            <description>What I have read for 2024 with reviews has been released!</description>
+        </item>
+    </channel>
+
+</rss>
